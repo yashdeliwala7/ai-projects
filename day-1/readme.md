@@ -23,3 +23,10 @@
 ## Run Project
 pip install -r requirements.txt
 python main.py
+
+## Update via Pull Request
+1. Create a branch
+2. Make changes
+3. Commit changes
+4. Push changes
+5. Create a pull request
