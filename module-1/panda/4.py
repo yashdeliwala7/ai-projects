@@ -11,4 +11,4 @@ df2 = pd.DataFrame({
  "Manager": ["X"]
 })
 
-print(pd.merge(df1, df2, on="Dept",how="left"))
+print(pd.merge(df1, df2, on="Dept",how="outer"))
