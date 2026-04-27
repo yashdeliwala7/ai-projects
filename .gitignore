@@ -4,3 +4,4 @@ __pycache__/
 .env
 *.zip
 *.mp4
+module-3/autoreply/*/model.safetensors
